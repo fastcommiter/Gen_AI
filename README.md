@@ -153,4 +153,9 @@ InterviewAI
         ├── App.jsx
         ├── app.routes.jsx
         └── main.jsx
+<img width="621" height="719" alt="image" src="https://github.com/user-attachments/assets/6a7cbaee-3aa4-4a4c-8f55-45b2da29fcdf" />
+
+
+<img width="1488" height="870" alt="image" src="https://github.com/user-attachments/assets/07135e89-52e6-4cb2-a4ab-5cd89f55c120" />
+
 
